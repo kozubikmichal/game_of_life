@@ -17,6 +17,8 @@ npm run start
 
 And navigate to the address specified in the command line (http://localhost:4444/)
 
+![](img/screen.png)
+
 ## Used technologies
 
 * [Typescript](https://www.typescriptlang.org/)
