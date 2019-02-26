@@ -1,0 +1,24 @@
+.gol-content {
+	margin: 1rem auto;
+	text-align: center;
+}
+
+.gol-grid {
+	margin: 1rem auto;
+	border-collapse: collapse;
+}
+
+.gol-grid td {
+	cursor: pointer;
+	width: 20px;
+	height: 20px;
+	border: 1px solid;
+}
+
+.gol-grid td.gol-alive {
+	background-color: black;
+}
+
+.gol-button {
+	margin-left: 1rem;
+}

@@ -1,0 +1,29 @@
+{
+  "name": "game_of_life",
+  "version": "1.0.0",
+  "description": "Game of Life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozubikmichal/game_of_life.git"
+  },
+  "author": "Michal Kozubik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozubikmichal/game_of_life/issues"
+  },
+  "homepage": "https://github.com/kozubikmichal/game_of_life#readme",
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
